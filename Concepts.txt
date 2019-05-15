@@ -1,0 +1,9 @@
+Basics
+Containers
+  List, Tuple,Dictonary, Set
+Exceptions
+Regular expresions
+Files
+Data bases
+Functions
+Project
