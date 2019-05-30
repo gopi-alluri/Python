@@ -1,0 +1,13 @@
+101,raju,python,8000
+102,ravi,java,5000
+103,ramesh,PYTHON,7500
+104,ramu,java,4500
+105,somu,c++,3500
+106,ramesh,Python,7500
+107,tullan,java script,3000
+108,ramana,c,2000
+109,ramana,JAVAscript,2800
+110,ramesh,scala,3000
+111,manish,SCALA,2500
+112,somu,c,2000
+113,raghu,c++,3400
